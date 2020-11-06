@@ -1,1 +1,3 @@
-# lab4_freertos_solution
+# lab4_freertos_skeleton
+
+https://github.com/feilipu/miniAVRfreeRTOS
